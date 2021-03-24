@@ -67,7 +67,7 @@
                         <!--  top section   -->
                         <div class="heading">                            
                             <div class="feature-img">
-                                <img src="./img/avatar.jpg" class="responsive-img" alt="username">
+                                <img src="./img/.jpg" class="responsive-img" alt="username">
                             </div>                            
                         </div>
                         <!-- sidebar info -->
