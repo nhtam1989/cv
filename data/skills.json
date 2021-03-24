@@ -1,0 +1,32 @@
+[
+    {
+        "label": "PHP + Mysql",
+        "ratio" : 70
+    },
+
+    {
+        "label": "Javascript",
+        "ratio" : 70
+    },
+
+    {
+        "label": "Nodejs",
+        "ratio" : 70
+    },
+
+    {
+        "label": "Reactjs",
+        "ratio" : 70
+    },
+
+    {
+        "label": "HTML + CSS",
+        "ratio" : 60
+    },
+
+    {
+        "label": "Git",
+        "ratio" : 70
+    }
+    
+]

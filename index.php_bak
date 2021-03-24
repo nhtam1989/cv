@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <!-- TITLE OF SITE-->
-        <title>CV - username </title>
+        <title>CV - Nguyễn Hoàng Tâm </title>
         
         <!-- META TAG -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -67,7 +67,7 @@
                         <!--  top section   -->
                         <div class="heading">                            
                             <div class="feature-img">
-                                <img src="./img/avatar.jpg" class="responsive-img" alt="username">
+                                <img src="./img/avatar.jpg" class="responsive-img" alt="Nguyễn hoàng tâm">
                             </div>                            
                         </div>
                         <!-- sidebar info -->
@@ -75,13 +75,13 @@
                             <div class="row info" style="margin:0px">  
                                 <div class="m12 l9 s12 skill-line a5 wow fadeIn animated" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeIn;">
                                     <div style="margin-left: 20px;" >
-                                        <strong class="font-size-25">username</strong>
+                                        <strong class="font-size-25" >Nguyễn Hoàng Tâm</strong>
                                         <p style="margin:0px;font-weight: 500;font-size: 16px;">Senior Web Development</p> 
                                         <ul style="line-height:30px">
-                                            <li><i class="fa fa-calendar font-size-16"></i><span>01/01/2000</span></li>
+                                            <li><i class="fa fa-calendar font-size-16"></i><span>01/01/1989</span></li>
                                             <li><i class="fa fa-user font-size-16"></i><span>Male</span></li>
-                                            <li><i class="fa fa-phone font-size-16"></i><span>000000000</span></li>
-                                            <li><i class="fa fa-envelope font-size-16"></i><span>demo@gmail.com</span></li>
+                                            <li><i class="fa fa-phone font-size-16"></i><span>0764260026</span></li>
+                                            <li><i class="fa fa-envelope font-size-16"></i><span>nhtam1989@gmail.com</span></li>
                                         </ul>
                                     </div> 
                                 </div>                     
